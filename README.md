@@ -1,6 +1,6 @@
 # React Interview Questions & Answers
 
-> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
+> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@Arghadeep](https://www.linkedin.com/in/arghadeep-mallick-77809a1a5) for technical updates.
 
 ---
 
